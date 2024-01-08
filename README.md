@@ -1,4 +1,4 @@
-### [Index](https://github.com/K-PaaS/guide) > ap2cp Guide
+### [Index](https://github.com/K-PaaS/guide) > ap2cp-Guide
 
 ## ap2cp-guide
 - [시스템 구성도](./install-guide/architecture/architecture.md) 
