@@ -1,4 +1,4 @@
-### [Index](https://github.com/K-PaaS/ap2cp-guide) > Running App > Container Rootfs
+### [Index](https://github.com/K-PaaS/ap2cp-guide) > Container Rootfs
 
 ## Table of Contents
 

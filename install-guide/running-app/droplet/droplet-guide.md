@@ -1,4 +1,4 @@
-### [Index](https://github.com/K-PaaS/ap2cp-guide) > Running App > Droplet
+### [Index](https://github.com/K-PaaS/ap2cp-guide) > Droplet
 
 ## Table of Contents
 
