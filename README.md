@@ -1,4 +1,4 @@
-### [Index]
+### Index
 
 ## ap2cp-guide
 - [시스템 구성도](./install-guide/architecture/architecture.md) 
