@@ -1,4 +1,4 @@
-### [Index](https://github.com/K-PaaS/ap2cp-guide) > Common
+### [Index](https://github.com/K-PaaS/guide) > [ap2cp-guide](https://github.com/K-PaaS/ap2cp-guide) > Common
 
 ## Table of Contents
 
@@ -249,4 +249,4 @@ $ kubectl get all -n [NAMESPACE_NAME]
 </kbd>
 <br>
 
-### [Index](https://github.com/K-PaaS/ap2cp-guide) > Common
+### [Index](https://github.com/K-PaaS/guide) > [ap2cp-guide](https://github.com/K-PaaS/ap2cp-guide)s > Common

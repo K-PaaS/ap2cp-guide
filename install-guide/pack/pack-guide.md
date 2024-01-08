@@ -1,4 +1,4 @@
-### [Index](https://github.com/K-PaaS/ap2cp-guide) > Pack
+### [Index](https://github.com/K-PaaS/guide) > [ap2cp-guide](https://github.com/K-PaaS/ap2cp-guide) > Pack
 
 ## Table of Contents
 
@@ -136,5 +136,5 @@ $ docker push [MY_REPOSITORY]:[TAG]
 # <div id='4'/>4. Kubernetes 설정 및 배포
 ## <div id='4.1'/>4.1. 공통 가이드
 - #### [공통 가이드](../common/common-guide.md)
-### [Index](https://github.com/K-PaaS/ap2cp-guide) > Pack
+### [Index](https://github.com/K-PaaS/guide) > [ap2cp-guide](https://github.com/K-PaaS/ap2cp-guide) > Pack
 

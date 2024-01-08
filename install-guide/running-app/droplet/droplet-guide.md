@@ -1,4 +1,4 @@
-### [Index](https://github.com/K-PaaS/ap2cp-guide) > Droplet
+### [Index](https://github.com/K-PaaS/guide) > [ap2cp-guide](https://github.com/K-PaaS/ap2cp-guide) > Droplet
 
 ## Table of Contents
 
@@ -157,4 +157,4 @@ $ docker push [MY_REPOSITORY]:[TAG]
 ## <div id='3.1'/>3.1. 공통 가이드
 - #### [공통 가이드](../../common/common-guide.md)
 
-### [Index](https://github.com/K-PaaS/ap2cp-guide) > Droplet
+### [Index](https://github.com/K-PaaS/guide) > [ap2cp-guide](https://github.com/K-PaaS/ap2cp-guide) > Droplet

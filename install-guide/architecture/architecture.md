@@ -1,4 +1,4 @@
-### [Index](https://github.com/K-PaaS/ap2cp-guide) > [ap2cp-guide](https://github.com/K-PaaS/ap2cp-guide) >Architecture
+### [Index](https://github.com/K-PaaS/guide) > [ap2cp-guide](https://github.com/K-PaaS/ap2cp-guide) >Architecture
 ## Table of Contents
 
 1. [개요](#1)  
@@ -43,4 +43,4 @@
 
 <br>
 
-### [Index](https://github.com/K-PaaS/ap2cp-guide) > [ap2cp-guide](https://github.com/K-PaaS/ap2cp-guide) >Architecture
+### [Index](https://github.com/K-PaaS/guide) > [ap2cp-guide](https://github.com/K-PaaS/ap2cp-guide) >Architecture
