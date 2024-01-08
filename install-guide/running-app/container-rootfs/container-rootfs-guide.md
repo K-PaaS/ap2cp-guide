@@ -238,5 +238,5 @@ $ vi [APP_NAME].env
 ## <div id='3.1'/>3.1. 공통 가이드
 - #### [공통 가이드](../../common/common-guide.md)
 
-### [Index](https://github.com/K-PaaS/ap2cp-guide) > Running App > Container Rootfs
+### [Index](https://github.com/K-PaaS/ap2cp-guide) > Container Rootfs
 
