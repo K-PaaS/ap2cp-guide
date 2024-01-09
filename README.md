@@ -8,7 +8,8 @@
     - [Droplet 파일 활용 가이드](./install-guide/running-app/droplet/droplet-guide.md)  
   + 어플리케이션 플랫폼 사용자(개발자) 측면
     - [Pack을 이용한 이미지 생성 가이드](./install-guide/pack/pack-guide.md)  
-    - [Docker file 생성 가이드](./install-guide/dockerfile/dockerfile-guide.md)  
+    - [Docker file 생성 가이드](./install-guide/dockerfile/dockerfile-guide.md) 
+  + [move2kube 활용 가이드](./install-guide/move2kube/move2kube-guide.md) 
   + [공통 가이드](./install-guide/common/common-guide.md)
   
 

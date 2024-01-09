@@ -1,4 +1,4 @@
-### [Index](https://github.com/jinyung0101java2/cptf/tree/main) > Move2Kube
+### [Index](https://github.com/K-PaaS/guide) > [ap2cp-guide](https://github.com/K-PaaS/ap2cp-guide) > Move2Kube
 
 ## Table of Contents
 
@@ -331,4 +331,4 @@ done
 ## <div id='4.1'/>4.1. 공통 가이드
 - #### [공통 가이드](../common/common-guide.md)
 
-### [Index](https://github.com/jinyung0101java2/cptf/tree/main) > Move2Kube
+### [Index](https://github.com/K-PaaS/guide) > [ap2cp-guide](https://github.com/K-PaaS/ap2cp-guide) > Move2Kube
